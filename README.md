@@ -1,1 +1,1 @@
-# Deeplive
+# deepknowledge-hub-core
